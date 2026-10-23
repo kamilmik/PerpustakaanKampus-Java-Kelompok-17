@@ -22,8 +22,7 @@ public class Perpustakaan {
         Stack<String> riwayat = new Stack<>();
         Queue<String> antrean = new LinkedList<>();
 
-        daftarBuku.add("Pemrograman Java Dasar");1
-                
+        daftarBuku.add("Pemrograman Java Dasar");
         daftarBuku.add("Kalkulus Lanjut");
         daftarBuku.add("Konsep Jaringan Komputer");
         daftarBuku.add("Desain Basis Data Relasional");
